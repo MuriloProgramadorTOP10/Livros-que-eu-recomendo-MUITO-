@@ -1,0 +1,10 @@
+body
+{
+    background-color: rgb(241, 227, 206);
+    
+        background-image: url("https://napratica.org.br/wp-content/uploads/2019/10/livros-mais-usados.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        color: white;
+}
